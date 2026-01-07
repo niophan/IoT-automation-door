@@ -1,0 +1,459 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.2.2">
+  <diagram name="Page-1" id="ZWvgZDl2367vU0-V2K82">
+    <mxGraphModel dx="1416" dy="1067" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-12" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="460" width="130" x="20" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-1" parent="HDEq_HrcLKz8IBOfA35s-12" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=left;" value="" vertex="1">
+          <mxGeometry height="460" width="130" as="geometry" />
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-2" parent="HDEq_HrcLKz8IBOfA35s-12" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" value="Alustus" vertex="1">
+          <mxGeometry height="23" width="43.333333333333336" as="geometry" />
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-3" parent="HDEq_HrcLKz8IBOfA35s-12" style="rounded=1;whiteSpace=wrap;html=1;" value="Alusta komponentit" vertex="1">
+          <mxGeometry height="44.23076923076923" width="86.66666666666667" x="21.666666666666668" y="35.38461538461538" as="geometry" />
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-6" parent="HDEq_HrcLKz8IBOfA35s-12" style="rounded=1;whiteSpace=wrap;html=1;" value="LEDien alustus" vertex="1">
+          <mxGeometry height="44.23076923076923" width="86.66666666666667" x="21.666666666666668" y="97.3076923076923" as="geometry" />
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-7" parent="HDEq_HrcLKz8IBOfA35s-12" style="rounded=1;whiteSpace=wrap;html=1;" value="LCD-näytön alutus" vertex="1">
+          <mxGeometry height="44.23076923076923" width="86.66666666666667" x="21.666666666666668" y="159.23076923076925" as="geometry" />
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-8" parent="HDEq_HrcLKz8IBOfA35s-12" style="rounded=1;whiteSpace=wrap;html=1;" value="Servon alustus" vertex="1">
+          <mxGeometry height="44.23076923076923" width="86.66666666666667" x="21.666666666666668" y="221.15384615384613" as="geometry" />
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-9" parent="HDEq_HrcLKz8IBOfA35s-12" style="rounded=1;whiteSpace=wrap;html=1;" value="Timer2 alutus" vertex="1">
+          <mxGeometry height="44.23076923076923" width="86.66666666666667" x="21.666666666666668" y="283.07692307692304" as="geometry" />
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-10" parent="HDEq_HrcLKz8IBOfA35s-12" style="rounded=1;whiteSpace=wrap;html=1;" value="UARTin alutus" vertex="1">
+          <mxGeometry height="44.23076923076923" width="86.66666666666667" x="21.666666666666668" y="345" as="geometry" />
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-11" parent="HDEq_HrcLKz8IBOfA35s-12" style="rounded=1;whiteSpace=wrap;html=1;" value="EEPROM" vertex="1">
+          <mxGeometry height="44.23076923076923" width="86.66666666666667" x="21.666666666666668" y="406.9230769230769" as="geometry" />
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
+          <mxGeometry height="580" width="1040" x="200" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-16" edge="1" parent="1" source="HDEq_HrcLKz8IBOfA35s-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HDEq_HrcLKz8IBOfA35s-15" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-107" edge="1" parent="1" source="HDEq_HrcLKz8IBOfA35s-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="HDEq_HrcLKz8IBOfA35s-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="285" y="80" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Sensorin tarkistus" vertex="1">
+          <mxGeometry height="50" width="90" x="240" y="395" as="geometry" />
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-26" edge="1" parent="1" source="HDEq_HrcLKz8IBOfA35s-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HDEq_HrcLKz8IBOfA35s-19" value="Kyl">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-89" edge="1" parent="1" source="HDEq_HrcLKz8IBOfA35s-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HDEq_HrcLKz8IBOfA35s-85">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="935" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-90" connectable="0" parent="HDEq_HrcLKz8IBOfA35s-89" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Ei" vertex="1">
+          <mxGeometry relative="1" x="-0.8128" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-15" parent="1" style="rhombus;html=1;align=center;horizontal=1;verticalAlign=middle;whiteSpace=wrap;fontSize=19;" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Kohde havaittu eikä salasana-tila aktiivinen?&lt;/font&gt;" vertex="1">
+          <mxGeometry height="140" width="120" x="360" y="305" as="geometry" />
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-28" edge="1" parent="1" source="HDEq_HrcLKz8IBOfA35s-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" target="HDEq_HrcLKz8IBOfA35s-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-106" edge="1" parent="1" source="HDEq_HrcLKz8IBOfA35s-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="HDEq_HrcLKz8IBOfA35s-35">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="90" />
+              <mxPoint x="1260" y="90" />
+              <mxPoint x="1260" y="272" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Siirry salasana-tilaan" vertex="1">
+          <mxGeometry height="50" width="90" x="375" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-47" edge="1" parent="1" source="HDEq_HrcLKz8IBOfA35s-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" target="HDEq_HrcLKz8IBOfA35s-46">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="570" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-48" connectable="0" parent="HDEq_HrcLKz8IBOfA35s-47" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="kyl" vertex="1">
+          <mxGeometry relative="1" x="0.3496" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-27" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Onko salasana-tila aktiivinen?" vertex="1">
+          <mxGeometry height="80" width="80" x="510" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-29" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="460" width="130" x="1275" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-30" parent="HDEq_HrcLKz8IBOfA35s-29" style="rounded=0;whiteSpace=wrap;html=1;direction=south;align=left;" value="" vertex="1">
+          <mxGeometry height="480" width="130" y="-20" as="geometry" />
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-32" parent="HDEq_HrcLKz8IBOfA35s-29" style="rounded=1;whiteSpace=wrap;html=1;" value="Hae etäisyys sensorilta" vertex="1">
+          <mxGeometry height="44.23076923076923" width="86.66666666666667" x="21.666666666666668" y="35.38461538461538" as="geometry" />
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-33" parent="HDEq_HrcLKz8IBOfA35s-29" style="rounded=1;whiteSpace=wrap;html=1;" value="Soita melodia" vertex="1">
+          <mxGeometry height="44.23076923076923" width="86.66666666666667" x="21.666666666666668" y="97.3076923076923" as="geometry" />
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-34" parent="HDEq_HrcLKz8IBOfA35s-29" style="rounded=1;whiteSpace=wrap;html=1;" value="Käsittele näppäinnmerkki" vertex="1">
+          <mxGeometry height="44.23076923076923" width="86.66666666666667" x="21.666666666666668" y="159.23076923076925" as="geometry" />
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-35" parent="HDEq_HrcLKz8IBOfA35s-29" style="rounded=1;whiteSpace=wrap;html=1;" value="Anna summeriääni" vertex="1">
+          <mxGeometry height="44.23076923076923" width="86.66666666666667" x="21.666666666666668" y="221.15384615384613" as="geometry" />
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-36" parent="HDEq_HrcLKz8IBOfA35s-29" style="rounded=1;whiteSpace=wrap;html=1;" value="Aikakatko servon pyyhkäisyyn" vertex="1">
+          <mxGeometry height="44.23076923076923" width="86.66666666666667" x="21.666666666666668" y="283.07692307692304" as="geometry" />
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-38" parent="HDEq_HrcLKz8IBOfA35s-29" style="rounded=1;whiteSpace=wrap;html=1;" value="EEPROM" vertex="1">
+          <mxGeometry height="44.23076923076923" width="86.66666666666667" x="21.666666666666668" y="400.0030769230769" as="geometry" />
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-109" parent="HDEq_HrcLKz8IBOfA35s-29" style="rounded=1;whiteSpace=wrap;html=1;" value="playTone()" vertex="1">
+          <mxGeometry height="44.23076923076923" width="86.66666666666667" x="21.670000000000073" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-41" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Pääsilmukka&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="200" x="240" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-52" edge="1" parent="1" source="HDEq_HrcLKz8IBOfA35s-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="HDEq_HrcLKz8IBOfA35s-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-53" connectable="0" parent="HDEq_HrcLKz8IBOfA35s-52" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="kyl" vertex="1">
+          <mxGeometry relative="1" x="-0.1426" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-46" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Onko UART-syötettä saatavilla?" vertex="1">
+          <mxGeometry height="80" width="80" x="640" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-49" edge="1" parent="1" source="HDEq_HrcLKz8IBOfA35s-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.876;entryY=0.374;entryDx=0;entryDy=0;entryPerimeter=0;" target="HDEq_HrcLKz8IBOfA35s-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-50" connectable="0" parent="HDEq_HrcLKz8IBOfA35s-49" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="ei" vertex="1">
+          <mxGeometry relative="1" x="-0.4177" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-55" edge="1" parent="1" source="HDEq_HrcLKz8IBOfA35s-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HDEq_HrcLKz8IBOfA35s-54" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-51" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Lue näppäin UARTista" vertex="1">
+          <mxGeometry height="50" width="90" x="760" y="145" as="geometry" />
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-59" edge="1" parent="1" source="HDEq_HrcLKz8IBOfA35s-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HDEq_HrcLKz8IBOfA35s-56" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-108" edge="1" parent="1" source="HDEq_HrcLKz8IBOfA35s-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="925" y="110" />
+              <mxPoint x="1210" y="110" />
+              <mxPoint x="1210" y="220" />
+              <mxPoint x="1280" y="220" />
+              <mxPoint x="1280" y="221" />
+            </Array>
+            <mxPoint x="1297" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-54" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Käsittele näppäin" vertex="1">
+          <mxGeometry height="50" width="90" x="880" y="145" as="geometry" />
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-63" edge="1" parent="1" source="HDEq_HrcLKz8IBOfA35s-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="HDEq_HrcLKz8IBOfA35s-57">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1130" y="230" />
+              <mxPoint x="650" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-66" connectable="0" parent="HDEq_HrcLKz8IBOfA35s-63" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="ei" vertex="1">
+          <mxGeometry relative="1" x="0.0923" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-64" edge="1" parent="1" source="HDEq_HrcLKz8IBOfA35s-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="HDEq_HrcLKz8IBOfA35s-58">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="600" y="220" />
+              <mxPoint x="600" y="510" />
+            </Array>
+            <mxPoint x="1090" y="205" as="sourcePoint" />
+            <mxPoint x="620" y="375" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-81" connectable="0" parent="HDEq_HrcLKz8IBOfA35s-64" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="kyl" vertex="1">
+          <mxGeometry relative="1" x="-0.4797" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-56" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Onko näppäin &#39;#&#39; (lähetä)?" vertex="1">
+          <mxGeometry height="80" width="80" x="1050" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-72" edge="1" parent="1" source="HDEq_HrcLKz8IBOfA35s-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="HDEq_HrcLKz8IBOfA35s-71">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="670" y="323" />
+              <mxPoint x="805" y="323" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-57" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Onko näppäin &#39;*&#39; (tyhjennä)?" vertex="1">
+          <mxGeometry height="80" width="80" x="610" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-79" edge="1" parent="1" source="HDEq_HrcLKz8IBOfA35s-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="HDEq_HrcLKz8IBOfA35s-78" value="ei">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-83" edge="1" parent="1" source="HDEq_HrcLKz8IBOfA35s-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="HDEq_HrcLKz8IBOfA35s-82">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="660" y="545" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-84" connectable="0" parent="HDEq_HrcLKz8IBOfA35s-83" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="kyl" vertex="1">
+          <mxGeometry relative="1" x="-0.1864" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-58" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Onko salasana oikein?" vertex="1">
+          <mxGeometry height="80" width="80" x="620" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-76" edge="1" parent="1" source="HDEq_HrcLKz8IBOfA35s-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="HDEq_HrcLKz8IBOfA35s-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-68" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Lisää näppäin syötteeseen" vertex="1">
+          <mxGeometry height="50" width="90" x="730" y="255" as="geometry" />
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-69" edge="1" parent="1" source="HDEq_HrcLKz8IBOfA35s-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.022;entryY=0.383;entryDx=0;entryDy=0;entryPerimeter=0;" target="HDEq_HrcLKz8IBOfA35s-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-70" connectable="0" parent="HDEq_HrcLKz8IBOfA35s-69" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="ei" vertex="1">
+          <mxGeometry relative="1" x="-0.2032" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-71" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Tyhjennä syöte ja näytä kehotus" vertex="1">
+          <mxGeometry height="50" width="90" x="760" y="345" as="geometry" />
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-74" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.895;entryY=0.605;entryDx=0;entryDy=0;entryPerimeter=0;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="589.2" y="370.79" />
+              <mxPoint x="589.2" y="298.79" />
+            </Array>
+            <mxPoint x="759.2" y="370.8426315789474" as="sourcePoint" />
+            <mxPoint x="560.8000000000002" y="299.19" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-75" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Päivitä koodinnäyttö" vertex="1">
+          <mxGeometry height="50" width="90" x="890" y="255" as="geometry" />
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-77" edge="1" parent="1" source="HDEq_HrcLKz8IBOfA35s-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.913;entryY=0.401;entryDx=0;entryDy=0;entryPerimeter=0;" target="HDEq_HrcLKz8IBOfA35s-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1000" y="280" />
+              <mxPoint x="1000" y="250" />
+              <mxPoint x="710" y="250" />
+              <mxPoint x="710" y="262" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-80" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="550" y="420" />
+            </Array>
+            <mxPoint x="787" y="430" as="sourcePoint" />
+            <mxPoint x="550" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-105" edge="1" parent="1" source="HDEq_HrcLKz8IBOfA35s-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="850" y="440" />
+              <mxPoint x="990" y="440" />
+              <mxPoint x="990" y="290" />
+              <mxPoint x="1297" y="290" />
+            </Array>
+            <mxPoint x="1297" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-78" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Pääsy evätty" vertex="1">
+          <mxGeometry height="50" width="90" x="760" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-86" edge="1" parent="1" source="HDEq_HrcLKz8IBOfA35s-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="HDEq_HrcLKz8IBOfA35s-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-98" edge="1" parent="1" source="HDEq_HrcLKz8IBOfA35s-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" target="HDEq_HrcLKz8IBOfA35s-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="190" y="555" />
+              <mxPoint x="190" y="324" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-101" edge="1" parent="1" source="HDEq_HrcLKz8IBOfA35s-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="805" y="510" />
+              <mxPoint x="860" y="510" />
+              <mxPoint x="860" y="320" />
+              <mxPoint x="1250" y="320" />
+              <mxPoint x="1250" y="160" />
+              <mxPoint x="1297" y="160" />
+            </Array>
+            <mxPoint x="1297" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-82" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Pääsy myönnetty" vertex="1">
+          <mxGeometry height="50" width="90" x="760" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-92" edge="1" parent="1" source="HDEq_HrcLKz8IBOfA35s-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="HDEq_HrcLKz8IBOfA35s-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-85" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Normaali toiminta" vertex="1">
+          <mxGeometry height="50" width="90" x="890" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-99" edge="1" parent="1" source="HDEq_HrcLKz8IBOfA35s-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="HDEq_HrcLKz8IBOfA35s-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-100" edge="1" parent="1" source="HDEq_HrcLKz8IBOfA35s-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="HDEq_HrcLKz8IBOfA35s-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-91" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Servon pyyhkäisyliike" vertex="1">
+          <mxGeometry height="50" width="90" x="1020" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-95" edge="1" parent="1" source="HDEq_HrcLKz8IBOfA35s-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="HDEq_HrcLKz8IBOfA35s-91">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="540" y="410" />
+              <mxPoint x="1010" y="410" />
+              <mxPoint x="1010" y="378" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-103" edge="1" parent="1" source="HDEq_HrcLKz8IBOfA35s-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HDEq_HrcLKz8IBOfA35s-102" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-96" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Päivitä LCD kulmalla ja etäisyydellä" vertex="1">
+          <mxGeometry height="50" width="90" x="1100" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-97" edge="1" parent="1" source="HDEq_HrcLKz8IBOfA35s-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.414;entryDx=0;entryDy=0;entryPerimeter=0;" target="HDEq_HrcLKz8IBOfA35s-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-104" edge="1" parent="1" source="HDEq_HrcLKz8IBOfA35s-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="HDEq_HrcLKz8IBOfA35s-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1145" y="600" />
+              <mxPoint x="285" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-102" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Lähetö debug-tila sarjaportiin" vertex="1">
+          <mxGeometry height="50" width="90" x="1100" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-31" parent="1" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" value="Apufunktiot" vertex="1">
+          <mxGeometry height="23" width="95" x="1292.5" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-115" edge="1" parent="1" source="HDEq_HrcLKz8IBOfA35s-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HDEq_HrcLKz8IBOfA35s-111" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-110" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Alustus" vertex="1">
+          <mxGeometry height="60" width="120" x="120" y="775" as="geometry" />
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-116" edge="1" parent="1" source="HDEq_HrcLKz8IBOfA35s-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.467;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" target="HDEq_HrcLKz8IBOfA35s-114">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="760" y="805" />
+              <mxPoint x="760" y="900" />
+              <mxPoint x="180" y="900" />
+              <mxPoint x="180" y="990" />
+            </Array>
+            <mxPoint x="760" y="800" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-111" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
+          <mxGeometry height="130" width="370" x="320" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-129" edge="1" parent="1" source="HDEq_HrcLKz8IBOfA35s-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="HDEq_HrcLKz8IBOfA35s-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-112" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Keypad:n alutus" vertex="1">
+          <mxGeometry height="60" width="120" x="360" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-113" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Sarja-portin alustus" vertex="1">
+          <mxGeometry height="60" width="120" x="532.5" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-114" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
+          <mxGeometry height="150" width="530" x="200" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-117" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Pääsilmukka&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="135" x="200" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-122" edge="1" parent="1" source="HDEq_HrcLKz8IBOfA35s-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="HDEq_HrcLKz8IBOfA35s-121">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-118" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Odota näppäimen painallusta" vertex="1">
+          <mxGeometry height="60" width="120" x="230" y="970" as="geometry" />
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-127" edge="1" parent="1" source="HDEq_HrcLKz8IBOfA35s-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" target="HDEq_HrcLKz8IBOfA35s-118">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="945" />
+              <mxPoint x="400" y="985" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-119" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Lähetä näppäin sarjaliikenteen kautta" vertex="1">
+          <mxGeometry height="60" width="120" x="570" y="930" as="geometry" />
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-128" edge="1" parent="1" source="HDEq_HrcLKz8IBOfA35s-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" target="HDEq_HrcLKz8IBOfA35s-118">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="570" y="1060" />
+              <mxPoint x="400" y="1060" />
+              <mxPoint x="400" y="1015" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-120" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Loopback (takaisinkytekentä)" vertex="1">
+          <mxGeometry height="60" width="120" x="570" y="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-123" edge="1" parent="1" source="HDEq_HrcLKz8IBOfA35s-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" target="HDEq_HrcLKz8IBOfA35s-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-125" connectable="0" parent="HDEq_HrcLKz8IBOfA35s-123" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="kyl" vertex="1">
+          <mxGeometry relative="1" x="-0.3526" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-124" edge="1" parent="1" source="HDEq_HrcLKz8IBOfA35s-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" target="HDEq_HrcLKz8IBOfA35s-120">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-126" connectable="0" parent="HDEq_HrcLKz8IBOfA35s-124" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="ei" vertex="1">
+          <mxGeometry relative="1" x="-0.3086" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HDEq_HrcLKz8IBOfA35s-121" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="onko näppäintä painettu?" vertex="1">
+          <mxGeometry height="90" width="100" x="410" y="955" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
