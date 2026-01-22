@@ -1,8 +1,10 @@
 # Tutka-oviavausjärjestelmä
 Sulautetut järjestelmät – Harjoitustyö  
 **Tiimi:** ENER-Gy  
-**Tekijät:** Eino Lausmaa, Eemeli Ranta, Nhân Phan  
-
+**Tekijät:**  
+- **Eino Lausmaa** ([@eino](https://github.com/LausmaaEino)) – Piirin /  3D:n rakentaja
+- **Eemeli Ranta** ([@eemeli](https://github.com/Elmadus)) – Projektivastaava
+- **Nhan Phan** ([@nio](https://github.com/niophan)) – Tekninen vetäjä
 ---
 
 ## 📌 Projektin kuvaus
